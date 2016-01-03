@@ -1,4 +1,19 @@
-analytics: {}
+name: WanderLust
+favicon: null
+layout_spectrum: 0.91195
+typography_spectrum: 0.152027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D0C8B8'
@@ -6,13 +21,8 @@ color:
     - '#68A8B0'
     - '#D09828'
     - '#E0B048'
-  brandStrength: 0.427927
+  brandStrength: 0.5625
   lightness: 0.474099
+  saturation: 0.1875
   rhythmicContrast: 0.54054
-  saturation: 0.661036
-cta: {}
-layout_spectrum: 0.906531
-name: WanderLust
-opengraph: {}
 purpose: []
-typography_spectrum: 0.152027
